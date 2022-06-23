@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="settings_entries_display_mode">
+        <item>常に表示</item>
+        <item>フルスクリーン時に非表示</item>
+        <item>非表示（通知から終了してください）</item>
+    </string-array>
+    <string-array name="settings_entries_move_direction">
+        <item>デフォルト(画面左右端の近い方)</item>
+        <item>左のみ</item>
+        <item>右のみ</item>
+        <item>上下左右端の近い方</item>
+        <item>吸着しない</item>
+        <item>フリックした方向</item>
+    </string-array>
+    <string-array name="settings_entries_shape">
+        <item>円</item>
+        <item>四角</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="app_name">FloatingView Sample</string>
+    <string name="chathead_click_message">クリック!</string>
+    <string name="chathead_content_title">デモ チャット：アクティブ</string>
+    <string name="content_text">デモ実行中</string>
+    <string name="delete_demo">デモ表示を削除</string>
+    <string name="deleted_soon">FloatingViewはまもなく消えます</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"詳細設定"</string>
+    <string name="finish_deleted">FloatingViewは消えました</string>
+    <string name="mail_address">example@example.com</string>
+    <string name="mail_content">メッセージ</string>
+    <string name="mail_content_title">デモ カスタマイズ：アクティブ</string>
+    <string name="mail_title">タイトル</string>
+    <string name="permission_denied">オーバレイの許可が出ませんでした</string>
+    <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
+    <string name="settings_dialog_title_init_x">左側からの比率</string>
+    <string name="settings_dialog_title_init_y">下部からの比率</string>
+    <string name="settings_summary_save_position">X,Y座標の初期位置を無視</string>
+    <string name="settings_summary_use_physics">フリック時に物理アニメーションを使用します(API 16以降)</string>
+    <string name="settings_title_animation">初回表示アニメーション</string>
+    <string name="settings_title_display_mode">表示モード</string>
+    <string name="settings_title_init_x">X座標の初期値</string>
+    <string name="settings_title_init_y">Y座標の初期値</string>
+    <string name="settings_title_margin">画面端のマージン</string>
+    <string name="settings_title_move_direction">吸着方向</string>
+    <string name="settings_title_save_position">前回の位置を保存</string>
+    <string name="settings_title_shape">形状</string>
+    <string name="settings_title_use_physics">物理アニメーションの使用</string>
+    <string name="show_customized_demo">カスタマイズデモ表示</string>
+    <string name="show_demo">デモ表示</string>
+    <string name="show_settings">初回表示設定</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>、<ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string formatted="false" name="touch_finished_position">現在位置 (%d,%d)</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"OFF"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ON"</string>
+</resources>
